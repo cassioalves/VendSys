@@ -19,7 +19,7 @@ It supports `.txt` file uploads via multipart/form-data, parses relevant data us
 
 ## 🛠 Tech Stack
 
-- [.NET 8](https://dotnet.microsoft.com/en-us/)
+- [.NET 9](https://dotnet.microsoft.com/en-us/)
 - ASP.NET Core Web API
 - Dapper
 - SQL Server (or LocalDB)
